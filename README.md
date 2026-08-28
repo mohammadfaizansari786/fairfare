@@ -11,14 +11,6 @@
 
 ---
 
-## 📱 App Previews
-
-| Home & Transit Search | Live Route & Traffic Map | Fare Comparison & Audit |
-| :---: | :---: | :---: |
-| <img src="screenshots/home_screen.png" width="270" alt="FairFare Home Screen" /> | <img src="screenshots/route_map.png" width="270" alt="Route Map & Corridor Analysis" /> | <img src="screenshots/app_preview.png" width="270" alt="Fare Comparison & Audit" /> |
-
----
-
 ## 🌟 Core Features
 
 ### 1. ⚖️ Multi-Modal Fare & ETA Comparison
