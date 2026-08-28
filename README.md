@@ -190,6 +190,3 @@ Contributions are welcome! If you'd like to update official city tariffs, add ne
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
-
-<p align="center">Made with ❤️ for transparent, fair, and accessible public transit.</p>
