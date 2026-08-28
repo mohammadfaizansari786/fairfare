@@ -1,0 +1,6 @@
+{
+  "name": "FairFare",
+  "description": "Modern transport fare calculator, multi-transit route comparison, official tariff database, and live meter overcharge checker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

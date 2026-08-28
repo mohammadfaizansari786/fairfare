@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+      Launch theme only. All in-app colour comes from the Compose theme, so this
+      just needs to be a no-action-bar shell whose window background matches the
+      Compose background to avoid a white flash on cold start.
+    -->
+    <style name="Theme.FairFare" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/launch_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark-mode launch background, matched to the Compose dark background. -->
+    <color name="launch_background">#FF101413</color>
+</resources>
